@@ -11,3 +11,5 @@ Tested on Windows 10.
 Requires Python3 and Telegram account.
 
 Notify me on e-mail if you meet any errors, I'll be thankful.
+
+Support me: www.buymeacoffee.com/fairycorekvlt
