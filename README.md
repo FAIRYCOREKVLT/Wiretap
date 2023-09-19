@@ -1,4 +1,4 @@
-Simple mic wiretap imitation with output through Telegram bot. Recording starts if sound passes threshold and stops after 5 secs of silence.
+Simple mic wiretap imitation with output through Telegram bot. Recording starts if sound passes threshold and stops after 5 secs of silence. May be used in combination with keylogger (https://github.com/FAIRYCOREKVLT/Keylogger).
 
 1. Run install.py to install required Python libraries
 2. Regulate THRESHOLD and SILENCE_TIMEOUT in wiretap.py if needed
