@@ -9,6 +9,6 @@ Simple mic wiretap imitation with output through Telegram bot. Recording starts 
 Tested on Windows 10.
 Requires Python3 and Telegram account. Regulate THRESHOLD and SILENCE_TIMEOUT in wiretap.py if needed
 
-Notify me on e-mail if you meet any errors, I'll be thankful.
+Contact me if you meet any errors or have any ideas, I'll be thankful.
 
 Support me: www.buymeacoffee.com/fairycorekvlt
