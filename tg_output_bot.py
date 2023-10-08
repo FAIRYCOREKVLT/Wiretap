@@ -1,5 +1,4 @@
-import asyncio, os
-from aiogram import Bot, types
+from aiogram import Bot
 
 # GETTING BOT TOKEN AND USER ID:
 
